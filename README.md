@@ -14,5 +14,10 @@ Go to the Admin Panel and that button will switch from "Admin Panel" to "Agent P
 ![image](https://user-images.githubusercontent.com/129979322/235324521-e2b817f3-150b-47df-bfd2-6690b8941566.png)
 Now name the new role "Supreme Admin" and select all permissions for Tickets,tasks,and knowldgebase,then click save.
 
+![image](https://user-images.githubusercontent.com/129979322/235325226-38875221-1b8b-45c3-aeb7-7eed68afb4ff.png)
+![image](https://user-images.githubusercontent.com/129979322/235325271-a4dc89e5-832b-481d-b5fa-f9032cc2bee9.png)
+
+
+
 
 
