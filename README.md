@@ -4,7 +4,8 @@ First make sure you log in to osTicket as Admin Panel using the credentials that
 
 Next step is to configure Roles,Departments and Teams.
 
-![image](https://user-images.githubusercontent.com/129979322/235323460-19674942-9542-486c-a38e-a78ed5556972.png)
+![image](https://user-images.githubusercontent.com/129979322/235324245-50d5d5a0-a13d-4cc5-8702-3d4cafc5fa70.png)
+
 
 Go to the Admin Panel and that button will switch from "Admin Panel" to "Agent Panel".The go to Agents>Roles> Add New Role
 
