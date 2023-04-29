@@ -10,7 +10,8 @@ Next step is to configure Roles,Departments and Teams.
 Go to the Admin Panel and that button will switch from "Admin Panel" to "Agent Panel".The go to Agents>Roles> Add New Role
 
 ![image](https://user-images.githubusercontent.com/129979322/235324201-ddb136e8-07a8-40db-a7d5-b56eae99e94a.png)
-![image](https://user-images.githubusercontent.com/129979322/235324337-8523229a-5f18-429b-ad1b-9d2a1a4a05f7.png)
+
+![image](https://user-images.githubusercontent.com/129979322/235324521-e2b817f3-150b-47df-bfd2-6690b8941566.png)
 
 
 
