@@ -16,6 +16,10 @@ Now name the new role "Supreme Admin" and select all permissions for Tickets,tas
 
 ![image](https://user-images.githubusercontent.com/129979322/235325226-38875221-1b8b-45c3-aeb7-7eed68afb4ff.png)
 ![image](https://user-images.githubusercontent.com/129979322/235325271-a4dc89e5-832b-481d-b5fa-f9032cc2bee9.png)
+Then go to departments panel and add a new department.Name it "system Admin" and hit create
+![image](https://user-images.githubusercontent.com/129979322/235325438-c6ba3140-1fa6-4505-a0df-5d7f9c11a48e.png)
+
+Now go to the Teams panel and click add new team,the name it "level II Support" and create team.
 
 
 
