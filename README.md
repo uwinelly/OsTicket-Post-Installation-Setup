@@ -37,9 +37,13 @@ Next go to settings>users>settings and make sure the registration Required: Requ
  
  We are going to create agents just go to add new agent
  
+ 
+
  ![image](https://user-images.githubusercontent.com/129979322/235328404-080e56bd-9aa0-4c47-815a-f726bb02f9c9.png)
 
 ![image](https://user-images.githubusercontent.com/129979322/235328620-22c99aba-0480-43aa-83eb-23be6fdaa7a0.png)
+
+![image](https://user-images.githubusercontent.com/129979322/235328763-0a581876-1105-44c2-b65a-b6918243d96d.png)
 
 
 
