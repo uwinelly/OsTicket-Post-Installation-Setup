@@ -22,10 +22,12 @@ Then go to departments panel and add a new department.Name it "system Admin" and
 ![image](https://user-images.githubusercontent.com/129979322/235325987-a9981948-236c-438c-a43e-e15226bda39a.png)
 Now go to the Teams panel and click add new team,the name it "level II Support" and create team.
 
+
 ![image](https://user-images.githubusercontent.com/129979322/235326793-cb0ffb8d-51e4-4962-8c86-b70f4402bc61.png)
 
 ![image](https://user-images.githubusercontent.com/129979322/235326864-795b0fdb-0e11-4d5f-9eb5-a16cf0eb146c.png)
-
+Next go to settings>users>settings and make sure the registration Required: Require registration and login to create tickets is unchecked.So that we can be able to create ticket anonymously.
+![image](https://user-images.githubusercontent.com/129979322/235327044-c589eed0-950a-4d79-9855-5901009f7224.png)
 
 
 
