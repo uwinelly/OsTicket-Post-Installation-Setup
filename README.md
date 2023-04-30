@@ -57,6 +57,8 @@ Then go to ADMIN Panel > Manage > SLA > add new SLA Plan
 
 ![image](https://user-images.githubusercontent.com/129979322/235329945-ccf7a871-fcfd-47ba-836d-a5274d9b0cb7.png)
 
+Now go to "help topics" and add the following topics as shown below
+
 ![image](https://user-images.githubusercontent.com/129979322/235330243-dec3bfca-c19d-489f-84ea-7b0f4ea2fc33.png)
 
 ![image](https://user-images.githubusercontent.com/129979322/235330291-9e0a9193-6a1a-4e72-8135-7421e360e907.png)
@@ -65,5 +67,7 @@ Then go to ADMIN Panel > Manage > SLA > add new SLA Plan
 ![image](https://user-images.githubusercontent.com/129979322/235330556-992137a1-70f3-47a0-8d39-69edbad0eed2.png)
 
 ![image](https://user-images.githubusercontent.com/129979322/235330637-56571bd1-75b6-4c3e-8208-d476f7c207a8.png)
+
+In the next tutorial we will be exploring tickets and the ticket lifecycle.
 
 
