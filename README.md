@@ -54,9 +54,12 @@ Next we will be creating users,go ahead and switch to the Agent panel>users>Add 
 ![image](https://user-images.githubusercontent.com/129979322/235329783-4190c9d1-73cd-40ef-8e51-269cc3fc123b.png)
 
 Then go to ADMIN Panel > Manage > SLA > add new SLA Plan
+
 ![image](https://user-images.githubusercontent.com/129979322/235329945-ccf7a871-fcfd-47ba-836d-a5274d9b0cb7.png)
 
+![image](https://user-images.githubusercontent.com/129979322/235330243-dec3bfca-c19d-489f-84ea-7b0f4ea2fc33.png)
 
+![image](https://user-images.githubusercontent.com/129979322/235330291-9e0a9193-6a1a-4e72-8135-7421e360e907.png)
 
 
 
