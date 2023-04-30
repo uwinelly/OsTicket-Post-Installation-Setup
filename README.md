@@ -44,11 +44,17 @@ Next go to settings>users>settings and make sure the registration Required: Requ
 
 
  ![image](https://user-images.githubusercontent.com/129979322/235328404-080e56bd-9aa0-4c47-815a-f726bb02f9c9.png)
-
+ 
+Next we will be creating users,go ahead and switch to the Agent panel>users>Add a new user
 ![image](https://user-images.githubusercontent.com/129979322/235328620-22c99aba-0480-43aa-83eb-23be6fdaa7a0.png)
 
 ![image](https://user-images.githubusercontent.com/129979322/235328763-0a581876-1105-44c2-b65a-b6918243d96d.png)
 ![image](https://user-images.githubusercontent.com/129979322/235329148-5fc37c02-50f9-4fda-86d2-78e0fcd796f7.png)
+
+![image](https://user-images.githubusercontent.com/129979322/235329783-4190c9d1-73cd-40ef-8e51-269cc3fc123b.png)
+
+Then go to ADMIN Panel > Manage > SLA > add new SLA Plan
+![image](https://user-images.githubusercontent.com/129979322/235329945-ccf7a871-fcfd-47ba-836d-a5274d9b0cb7.png)
 
 
 
