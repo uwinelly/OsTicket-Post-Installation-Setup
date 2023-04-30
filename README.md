@@ -48,6 +48,8 @@ Next go to settings>users>settings and make sure the registration Required: Requ
 ![image](https://user-images.githubusercontent.com/129979322/235328620-22c99aba-0480-43aa-83eb-23be6fdaa7a0.png)
 
 ![image](https://user-images.githubusercontent.com/129979322/235328763-0a581876-1105-44c2-b65a-b6918243d96d.png)
+![image](https://user-images.githubusercontent.com/129979322/235329148-5fc37c02-50f9-4fda-86d2-78e0fcd796f7.png)
+
 
 
 
