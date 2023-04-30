@@ -66,7 +66,7 @@ Now go to "help topics" and add the following topics as shown below
 
 ![image](https://user-images.githubusercontent.com/129979322/235330556-992137a1-70f3-47a0-8d39-69edbad0eed2.png)
 
-![image](https://user-images.githubusercontent.com/129979322/235330637-56571bd1-75b6-4c3e-8208-d476f7c207a8.png)
+![image](https://user-images.githubusercontent.com/129979322/235330912-36141a45-7a84-49c9-9775-f3c761c34d0c.png)
 
 In the next tutorial we will be exploring tickets and the ticket lifecycle.
 
