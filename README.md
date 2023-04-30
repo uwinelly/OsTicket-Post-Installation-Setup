@@ -61,5 +61,6 @@ Then go to ADMIN Panel > Manage > SLA > add new SLA Plan
 
 ![image](https://user-images.githubusercontent.com/129979322/235330291-9e0a9193-6a1a-4e72-8135-7421e360e907.png)
 
+![image](https://user-images.githubusercontent.com/129979322/235330397-4fff4d67-d251-4ac7-b18d-faf4510e42ff.png)
 
 
