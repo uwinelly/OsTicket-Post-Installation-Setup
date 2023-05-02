@@ -55,9 +55,6 @@ So that we can be able to create ticket anonymously.
  
  ![image](https://user-images.githubusercontent.com/129979322/235329120-1abb62fd-a1e9-4a1c-b960-95041807958b.png)
 
-
- ![image](https://user-images.githubusercontent.com/129979322/235328404-080e56bd-9aa0-4c47-815a-f726bb02f9c9.png)
- 
 Next we will be creating users,go ahead and switch to the Agent panel>users>Add a new user
 
 
