@@ -28,7 +28,8 @@ Name it "system Admin" and click create with default settings.
 ![image](https://user-images.githubusercontent.com/129979322/235325942-58336e8b-1ef0-4db6-8551-9a647f488c6b.png)
 ![image](https://user-images.githubusercontent.com/129979322/235325987-a9981948-236c-438c-a43e-e15226bda39a.png)
 
-Now go to the Teams panel and click add new team,the name it "level II Support" and create team.
+Now go to the Teams panel and click add new team.https://docs.osticket.com/en/latest/Admin/Agents/Teams.html
+next go ahead and name it "level II Support" and create team.
 
 
 ![image](https://user-images.githubusercontent.com/129979322/235326793-cb0ffb8d-51e4-4962-8c86-b70f4402bc61.png)
