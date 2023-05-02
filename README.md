@@ -20,7 +20,8 @@ Now name the new role "Supreme Admin" and select all permissions for Tickets,tas
 ![image](https://user-images.githubusercontent.com/129979322/235325226-38875221-1b8b-45c3-aeb7-7eed68afb4ff.png)
 ![image](https://user-images.githubusercontent.com/129979322/235325271-a4dc89e5-832b-481d-b5fa-f9032cc2bee9.png)
 
-Then go to departments panel and add a new department.Here is the link for better understanding: https://docs.osticket.com/en/latest/Admin/Agents/Departments.html
+Then go to departments panel and add a new department.
+Here is the link for better understanding: https://docs.osticket.com/en/latest/Admin/Agents/Departments.html
 Name it "system Admin" and click create
 
 ![image](https://user-images.githubusercontent.com/129979322/235325887-d203fcc6-f45c-49c2-8f9f-cb67d2f69e60.png)
