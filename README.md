@@ -43,6 +43,7 @@ Next go to settings>users>settings and make sure the registration Required: Requ
  We are going to create agents : https://docs.osticket.com/en/latest/Admin/Agents/Agents.html
  Just go to Agents> add new agent
  
+ ![image](https://user-images.githubusercontent.com/129979322/235328763-0a581876-1105-44c2-b65a-b6918243d96d.png)
  ![image](https://user-images.githubusercontent.com/129979322/235328908-885583c8-1d07-4134-8957-73233a835161.png)
  
  ![image](https://user-images.githubusercontent.com/129979322/235329120-1abb62fd-a1e9-4a1c-b960-95041807958b.png)
@@ -54,7 +55,7 @@ Next go to settings>users>settings and make sure the registration Required: Requ
 Next we will be creating users,go ahead and switch to the Agent panel>users>Add a new user
 ![image](https://user-images.githubusercontent.com/129979322/235328620-22c99aba-0480-43aa-83eb-23be6fdaa7a0.png)
 
-![image](https://user-images.githubusercontent.com/129979322/235328763-0a581876-1105-44c2-b65a-b6918243d96d.png)
+
 ![image](https://user-images.githubusercontent.com/129979322/235329148-5fc37c02-50f9-4fda-86d2-78e0fcd796f7.png)
 
 ![image](https://user-images.githubusercontent.com/129979322/235329783-4190c9d1-73cd-40ef-8e51-269cc3fc123b.png)
