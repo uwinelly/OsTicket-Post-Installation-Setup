@@ -62,9 +62,9 @@ Next we will be creating users: https://docs.osticket.com/en/latest/Agent/Users/
 
 Go ahead and switch to the Agent panel> users> Add a new user
 
-![image](https://user-images.githubusercontent.com/129979322/235736262-236d3ce2-228e-480e-be69-fad7d4fb111b.png)
+![image](https://user-images.githubusercontent.com/129979322/235737868-5a01c2f6-7fcf-48b2-bab1-cf5f120e4433.png)
 
-![image](https://user-images.githubusercontent.com/129979322/235736946-6eded528-4a6d-4d58-9222-7e7210485a55.png)
+![image](https://user-images.githubusercontent.com/129979322/235737974-e5015784-6f67-4503-9d02-d882d598f11f.png)
 
 
 Then go to ADMIN Panel > Manage > SLA > add new SLA Plan
