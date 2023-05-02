@@ -31,12 +31,12 @@ Name it "system Admin" and click create with default settings.
 Now go to the Teams panel and click add new team.https://docs.osticket.com/en/latest/Admin/Agents/Teams.html
 next go ahead and name it "level II Support" and create team.
 
-
 ![image](https://user-images.githubusercontent.com/129979322/235326793-cb0ffb8d-51e4-4962-8c86-b70f4402bc61.png)
 
 ![image](https://user-images.githubusercontent.com/129979322/235326864-795b0fdb-0e11-4d5f-9eb5-a16cf0eb146c.png)
 
-Next go to settings>users>settings and make sure the registration Required: Require registration and login to create tickets is unchecked.So that we can be able to create ticket anonymously.
+Next go to settings>users>settings and make sure the registration Required: Require registration and login to create tickets is unchecked.
+So that we can be able to create ticket anonymously.
 
 ![image](https://user-images.githubusercontent.com/129979322/235327044-c589eed0-950a-4d79-9855-5901009f7224.png)
  
@@ -47,13 +47,13 @@ Next go to settings>users>settings and make sure the registration Required: Requ
  
  ![image](https://user-images.githubusercontent.com/129979322/235328620-22c99aba-0480-43aa-83eb-23be6fdaa7a0.png)
  
- Next go ahead and give the agent "access" by clicking on Access>and add the agent for instance to "system Admin" 
- and for role select "supreme Admin"lastly go to team and add the agent to a "level II support"for instance.
- And create Cara's account as shown below:
+ Next go ahead and give the agent access by clicking on "Access" and add the agent for instance to "system Admin" 
+ and for role select "supreme Admin" lastly go to team and add the agent to a "level II support".
+ Then create Cara's account as shown below:
+ 
  ![image](https://user-images.githubusercontent.com/129979322/235328908-885583c8-1d07-4134-8957-73233a835161.png)
  
  ![image](https://user-images.githubusercontent.com/129979322/235329120-1abb62fd-a1e9-4a1c-b960-95041807958b.png)
-
 
 
  ![image](https://user-images.githubusercontent.com/129979322/235328404-080e56bd-9aa0-4c47-815a-f726bb02f9c9.png)
