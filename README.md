@@ -1,4 +1,4 @@
-Since we will be switching to Admin Panel(sets up the ticketing system,defines roles,SLAs etc) and Agent Panel(working ticket and helping users).
+Since we will be switching from Admin Panel(sets up the ticketing system,defines roles,SLAs etc) to Agent Panel(working ticket and helping users).
 First make sure you log into osTicket as Admin Panel using the credentials that you set for the Admin in the previous tutorial.
 You can also use the Url: http://localhost/osTicket/scp/login.php  to login.
 
