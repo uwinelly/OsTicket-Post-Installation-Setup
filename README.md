@@ -1,12 +1,13 @@
-First make sure you log in to osTicket as Admin Panel using the credentials that you set for the Admin in the previous tutorial.
+Since we will be switching to Admin Panel(sets up the ticketing system,defines roles,SLAs etc) and Agent Panel(working ticket and helping users).
+First make sure you log into osTicket as Admin Panel using the credentials that you set for the Admin in the previous tutorial.
 You can also use the Url: http://localhost/osTicket/scp/login.php  to login.
 
 ![image](https://user-images.githubusercontent.com/129979322/235323718-2145b962-6e84-4b25-9f09-f14fe87aad65.png)
 
-Next step is to configure Roles,Departments and Teams.
+Next step is to configure Roles.
+Here is the link for more information: https://docs.osticket.com/en/latest/Admin/Agents/Roles.html.
 
 ![image](https://user-images.githubusercontent.com/129979322/235324245-50d5d5a0-a13d-4cc5-8702-3d4cafc5fa70.png)
-
 
 Go to the Admin Panel and that button will switch from "Admin Panel" to "Agent Panel".Then go to Agents>Roles> Add New Role
 
@@ -19,7 +20,8 @@ Now name the new role "Supreme Admin" and select all permissions for Tickets,tas
 ![image](https://user-images.githubusercontent.com/129979322/235325226-38875221-1b8b-45c3-aeb7-7eed68afb4ff.png)
 ![image](https://user-images.githubusercontent.com/129979322/235325271-a4dc89e5-832b-481d-b5fa-f9032cc2bee9.png)
 
-Then go to departments panel and add a new department.Name it "system Admin" and click create
+Then go to departments panel and add a new department.Here is the link for better understanding: https://docs.osticket.com/en/latest/Admin/Agents/Departments.html
+Name it "system Admin" and click create
 
 ![image](https://user-images.githubusercontent.com/129979322/235325887-d203fcc6-f45c-49c2-8f9f-cb67d2f69e60.png)
 ![image](https://user-images.githubusercontent.com/129979322/235325942-58336e8b-1ef0-4db6-8551-9a647f488c6b.png)
