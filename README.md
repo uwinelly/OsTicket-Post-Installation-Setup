@@ -61,6 +61,8 @@ So that we can be able to create ticket anonymously.
 Next we will be creating users: https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html
 Go ahead and switch to the Agent panel> users> Add a new user
 
+![image](https://user-images.githubusercontent.com/129979322/235736262-236d3ce2-228e-480e-be69-fad7d4fb111b.png)
+
 ![image](https://user-images.githubusercontent.com/129979322/235329783-4190c9d1-73cd-40ef-8e51-269cc3fc123b.png)
 
 Then go to ADMIN Panel > Manage > SLA > add new SLA Plan
