@@ -1,3 +1,4 @@
+
 Since we will be switching from Admin Panel(sets up the ticketing system,defines roles,SLAs etc) to Agent Panel(working ticket and helping users).
 First make sure you log into osTicket as Admin Panel using the credentials that you set for the Admin in the previous tutorial.
 You can also use the Url: http://localhost/osTicket/scp/login.php  to login.
@@ -55,11 +56,9 @@ So that we can be able to create ticket anonymously.
  
  ![image](https://user-images.githubusercontent.com/129979322/235329120-1abb62fd-a1e9-4a1c-b960-95041807958b.png)
 
-Next we will be creating users,go ahead and switch to the Agent panel>users>Add a new user
-
-
-
 ![image](https://user-images.githubusercontent.com/129979322/235329148-5fc37c02-50f9-4fda-86d2-78e0fcd796f7.png)
+
+Next we will be creating users,go ahead and switch to the Agent panel>users>Add a new user
 
 ![image](https://user-images.githubusercontent.com/129979322/235329783-4190c9d1-73cd-40ef-8e51-269cc3fc123b.png)
 
