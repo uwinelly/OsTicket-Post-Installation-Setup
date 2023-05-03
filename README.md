@@ -89,7 +89,7 @@ Then add the following topics as shown below
 
 ![image](https://user-images.githubusercontent.com/129979322/235820350-ff9a1957-628c-4ccb-8262-bfd0a6aa53f3.png)
 
-![image](https://user-images.githubusercontent.com/129979322/235330912-36141a45-7a84-49c9-9775-f3c761c34d0c.png)
+![image](https://user-images.githubusercontent.com/129979322/235820469-ae60250f-7c94-44fc-90ca-07db41592fb9.png)
 
 In the next tutorial we will be exploring tickets and the ticket lifecycle.
 
