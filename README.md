@@ -84,7 +84,8 @@ Go to ADMIN Panel > Manage > SLA > add new SLA Plan
 
 ![image](https://user-images.githubusercontent.com/129979322/235819477-68277bcc-b7b4-4e6c-b81b-7185c67ba3d2.png)
 
-Now go to "help topics" and add the following topics as shown below
+Next go to "help topics" Admin Panel -> Manage -> Help Topics
+Then add the following topics as shown below
 
 ![image](https://user-images.githubusercontent.com/129979322/235330556-992137a1-70f3-47a0-8d39-69edbad0eed2.png)
 
