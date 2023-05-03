@@ -70,12 +70,14 @@ Go ahead and switch to the Agent panel> users> Add a new user
 
 Next we are going to configure SLA.Here is the link fore better understanding:
 https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html
+
+
 Go to ADMIN Panel > Manage > SLA > add new SLA Plan
 
 ![image](https://user-images.githubusercontent.com/129979322/235817821-6fade18c-6900-48fd-8246-7f743682a287.png)
 
 
-![image](https://user-images.githubusercontent.com/129979322/235329945-ccf7a871-fcfd-47ba-836d-a5274d9b0cb7.png)
+![image](https://user-images.githubusercontent.com/129979322/235818298-2c00d4ee-82cf-407a-84e0-3c61fff4f593.png)
 
 
 ![image](https://user-images.githubusercontent.com/129979322/235330243-dec3bfca-c19d-489f-84ea-7b0f4ea2fc33.png)
