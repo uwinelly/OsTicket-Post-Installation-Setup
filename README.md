@@ -80,7 +80,7 @@ Go to ADMIN Panel > Manage > SLA > add new SLA Plan
 ![image](https://user-images.githubusercontent.com/129979322/235818298-2c00d4ee-82cf-407a-84e0-3c61fff4f593.png)
 
 
-![image](https://user-images.githubusercontent.com/129979322/235818918-4a705107-356a-4bf9-a37d-8ea440002afb.png)
+![image](https://user-images.githubusercontent.com/129979322/235819300-312eb3ee-167d-438b-973d-6d18f902e4de.png)
 
 ![image](https://user-images.githubusercontent.com/129979322/235330291-9e0a9193-6a1a-4e72-8135-7421e360e907.png)
 
